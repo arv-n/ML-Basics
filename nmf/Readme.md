@@ -1,6 +1,6 @@
 # Non Negative Matrix Factorization based Seung and Lee 's seminal paper
 
-This talk is for the Seminar on *Classical Topics in Machine Learning* under the Cognitive Algorithms course module taken under TU Berlin.
+This talk is for the Seminar on *Classical Topics in Machine Learning* course module taken at TU Berlin.
 The paper by Seung and Lee you can find [here](http://web.cs.ucla.edu/~yzsun/classes/2014Spring_CS7280/Papers/Clustering/NNF_lee01algorithms.pdf) applied on the MNIST database.
 
 ![guide](readme.gif)
@@ -15,6 +15,6 @@ To use the presentation notebook interactively, you will need to have the Julia 
 
 The interactive content depends on 'mnist_test.csv'. Please extract mnist.zip within the same folder before running nmf.jl
 
-Static (non-interactive) versions as HTML and PDF,  can be found under the same filename.
+Static (non-interactive) versions as PDF,  can be found under the same filename.
 
 
