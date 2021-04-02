@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.12.18
+# v0.12.20
 
 using Markdown
 using InteractiveUtils
@@ -524,12 +524,12 @@ md"# References
 # ╔═╡ Cell order:
 # ╟─9bae7e74-58dc-11eb-00fb-b70e83ab29a0
 # ╟─b7e702fa-58dc-11eb-22e6-796d3cdcdfb5
-# ╟─f41136de-58d6-11eb-2503-df3264b933a1
+# ╠═f41136de-58d6-11eb-2503-df3264b933a1
 # ╟─2c55f482-58df-11eb-1abf-47ddfc2c643c
 # ╟─9c3f57ca-58df-11eb-2587-9b8dd03006ac
 # ╟─531b4876-58e2-11eb-3f45-37596f16987b
 # ╟─6e0c36b8-58e2-11eb-3b71-fd379b437dc1
-# ╟─af29ceb2-58e7-11eb-1af8-5ba313594158
+# ╠═af29ceb2-58e7-11eb-1af8-5ba313594158
 # ╟─fc91d4c8-5933-11eb-05ce-3d520c9b8db5
 # ╟─4d04a4bc-58ff-11eb-25a0-ab2c800e9a47
 # ╟─693f44fa-58ff-11eb-18ff-0986e2895139
@@ -537,7 +537,7 @@ md"# References
 # ╠═3e700eaa-5907-11eb-15ed-ef1b380c80ec
 # ╠═34d83a7a-5907-11eb-37d5-1150955ef713
 # ╟─0634bf6e-5906-11eb-0675-1b964d05fd4c
-# ╟─2d73b976-58fd-11eb-2a3b-6d2d5621ef8e
+# ╠═2d73b976-58fd-11eb-2a3b-6d2d5621ef8e
 # ╟─3f29aada-58f9-11eb-021b-634ff29cbc74
 # ╟─e7c114ce-5907-11eb-34e5-871e45670a34
 # ╟─281d78d0-5930-11eb-2256-e9894258c40b
